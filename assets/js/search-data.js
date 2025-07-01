@@ -59,12 +59,7 @@ ninja.data = [{
             window.location.href = "/blog/2024/interaxion-ep60/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-new-paper-structural-stability-and-polymorphic-transitions-in-lnsi-ln-lanthanides-published-in-dalton-transactions",
+      },{id: "news-a-new-paper-structural-stability-and-polymorphic-transitions-in-lnsi-ln-lanthanides-published-in-dalton-transactions",
           title: 'A New Paper “Structural stability and polymorphic transitions in LnSI (Ln = lanthanides)”...',
           description: "",
           section: "News",},{id: "news-launched-my-personal-website-finally",
