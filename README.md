@@ -1,4 +1,4 @@
-# suguruyoshida.github.io
+# suguru-y.github.io
 
 This repository hosts my personal academic website.
 
