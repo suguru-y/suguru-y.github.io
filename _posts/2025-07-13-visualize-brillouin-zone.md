@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Let's visualize Brillouin zone with VESTA"
-date: 2025-07-05
+date: 2025-07-13
 description: "Script to visualize Brillouin zone with VESTA."
 tags: physics python script Japanese English visualization
 categories: script
-#thumbnail: assets/img/podcast-thumbnail.jpg 
+thumbnail: assets/img/blog/BZ_vis/bz_folding.png 
 ---
 *English Follows Japanese*
 
@@ -29,14 +29,14 @@ categories: script
 ポスドク時代に作った簡易スクリプトをChatGPTの力を借りてキレイにしたので、この度公開することにしました。
 作った当時は[こちら](https://qiita.com/skotaro/items/dec1e31364f317a53a19)を参考にしました
 (というか、この記事が素晴らしいので、私のスクリプトは些末な応用にすぎません...)。
-最近、有償ソフトウェア[SingleCrystal](https://crystalmaker.com/singlecrystal/)で類似の機能が実装されているのですが、本スクリプトを使えば全てフリーソフトで完結するので、まだ価値はあると考えています...)
+最近、有償ソフトウェア[SingleCrystal](https://crystalmaker.com/singlecrystal/)で類似の機能が実装されているのですが、本スクリプトを使えば全てフリーソフトで完結するので、まだ価値はあると考えています...
 研究はもちろん、授業などでも何かの助けになれば嬉しく思います。
 例えば、<i>Pm</i><span style='text-decoration: overline;'>3</span><i>m</i>構造のペロブスカイト物質で
 R点のフォノン凍結が起こると、超格子形成を伴い<i>R</i><span style='text-decoration: overline;'>3</span><i>c</i>構造に構造相転移しますが、
 このとき逆格子は小さくなり、
 <i>Pm</i><span style='text-decoration: overline;'>3</span><i>m</i>構造の
 R点は<i>R</i><span style='text-decoration: overline;'>3</span><i>c</i>構造の&Gamma;点に折り畳まれます。
-このようなバンドフォールディングの様子も可視化できたりします。色々使えそうじゃないですか？
+このようなバンドフォールディングの様子も、少し工夫すれば可視化できたりします。色々使えそうじゃないですか？
 
 <div class="row">
   <div class="col-sm-6">
