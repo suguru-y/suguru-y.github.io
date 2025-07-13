@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-interaxion-podcast-episode-62-altermagnet",
+        },{id: "post-let-39-s-visualize-brillouin-zone-with-vesta",
+        
+          title: "Let&#39;s visualize Brillouin zone with VESTA",
+        
+        description: "Script to visualize Brillouin zone with VESTA.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/visualize-brillouin-zone/";
+          
+        },
+      },{id: "post-interaxion-podcast-episode-62-altermagnet",
         
           title: "Interaxion Podcast Episode 62: Altermagnet",
         
