@@ -25,13 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
 Thank you for stopping by my personal website 👋
-I am a researcher working at the intersection of <i><b>chemistry</b></i> and <i><b>physics</b></i>,
-with a deep interest in how the structure of materials gives rise to their diverse and sometimes surprising properties,
-often governed by underlying symmetries. 
-Drawing on both <i><b>experimental</b></i> and <i><b>theoretical</b></i> tools,
-I seek to uncover simple principles behind seemingly intricate materials and to contribute to the broader quest for new and functional states of matter.
+I am a researcher working at the border of chemistry and physics,
+with an interest in how the crystal structure gives rise to their diverse and sometimes surprising properties.
+Using both experimental and theoretical tools,
+I seek to uncover simple rules behind crystalline solids and to contribute to the quest for new functional materials.
 
-Beyond the specifics of any given project, I’m especially drawn to research that reflects a sense of individuality: whether in the questions we ask, the tools we choose, or the perspectives we bring.
-I believe that science thrives when it embraces curiosity, creativity, and the personal fingerprints that make each line of inquiry unique.
-
+Beyond the details of a project, I'm especially attracted to research that reflects your personality.
+I am convinced that scientific advancement is fostered when, in addition to curiosity and creativity,
+the unique contributions of each researcher are fully embraced.
