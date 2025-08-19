@@ -79,6 +79,9 @@ ninja.data = [{
           section: "News",},{id: "news-this-paper-in-dalton-transactions-selected-as-a-hot-article",
           title: 'This paper in Dalton Transactions selected as a HOT article!',
           description: "",
+          section: "News",},{id: "news-giving-a-seminar-at-the-young-researcher-forum-of-the-ceramics-society-of-japan-kansai-branch-oct-14-15-looking-forward-to-seeing-you-there",
+          title: 'Giving a seminar at the Young Researcher Forum of the Ceramics Society of...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
