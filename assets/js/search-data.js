@@ -82,6 +82,9 @@ ninja.data = [{
           section: "News",},{id: "news-giving-a-seminar-at-the-young-researcher-forum-of-the-ceramics-society-of-japan-kansai-branch-oct-14-15-looking-forward-to-seeing-you-there",
           title: 'Giving a seminar at the Young Researcher Forum of the Ceramics Society of...',
           description: "",
+          section: "News",},{id: "news-serving-as-an-organizer-of-the-virtual-symposium-computational-materials-discovery-at-acs-spring-meeting-2026-join-us",
+          title: 'Serving as an organizer of the Virtual Symposium “Computational Materials Discovery” at ACS...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
