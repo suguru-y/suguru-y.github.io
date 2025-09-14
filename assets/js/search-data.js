@@ -85,6 +85,9 @@ ninja.data = [{
           section: "News",},{id: "news-serving-as-an-organizer-of-the-virtual-symposium-computational-materials-discovery-at-acs-spring-meeting-2026-join-us",
           title: 'Serving as an organizer of the Virtual Symposium “Computational Materials Discovery” at ACS...',
           description: "",
+          section: "News",},{id: "news-mini-report-on-the-young-lecture-tour-to-europe-is-now-on-jst-aspire-official-note",
+          title: 'Mini report on the Young Lecture Tour to Europe is now on JST...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
