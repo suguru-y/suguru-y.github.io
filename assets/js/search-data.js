@@ -88,6 +88,12 @@ ninja.data = [{
           section: "News",},{id: "news-mini-report-on-the-young-lecture-tour-to-europe-is-now-on-jst-aspire-official-note",
           title: 'Mini report on the Young Lecture Tour to Europe is now on JST...',
           description: "",
+          section: "News",},{id: "news-a-new-paper-published-in-crystal-growth-amp-amp-design",
+          title: 'A new paper published in Crystal Growth &amp;amp;amp; Design.',
+          description: "",
+          section: "News",},{id: "news-a-new-arxiv-preprint-posted",
+          title: 'A new arXiv preprint posted.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
