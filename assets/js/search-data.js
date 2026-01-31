@@ -94,6 +94,9 @@ ninja.data = [{
           section: "News",},{id: "news-a-new-arxiv-preprint-posted",
           title: 'A new arXiv preprint posted.',
           description: "",
+          section: "News",},{id: "news-new-paper-regarding-the-ferroelectricity-of-a-defect-perovskite-is-now-published-in-jacs",
+          title: 'New paper regarding the ferroelectricity of a defect perovskite is now published in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
