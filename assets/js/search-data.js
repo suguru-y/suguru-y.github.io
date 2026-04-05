@@ -97,6 +97,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-regarding-the-ferroelectricity-of-a-defect-perovskite-is-now-published-in-jacs",
           title: 'New paper regarding the ferroelectricity of a defect perovskite is now published in...',
           description: "",
+          section: "News",},{id: "news-new-collaboration-paper-about-polar-metallic-lireo3-is-now-published-in-science-advances",
+          title: 'New collaboration paper about polar metallic LiReO3 is now published in Science Advances....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
