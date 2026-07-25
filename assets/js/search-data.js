@@ -100,6 +100,12 @@ ninja.data = [{
           section: "News",},{id: "news-new-collaboration-paper-about-polar-metallic-lireo3-is-now-published-in-science-advances",
           title: 'New collaboration paper about polar metallic LiReO3 is now published in Science Advances....',
           description: "",
+          section: "News",},{id: "news-our-research-project-has-been-awarded-jsps-grant-in-aid-for-challenging-research-exploratory",
+          title: 'Our research project has been awarded JSPS Grant-in-Aid for Challenging Research (Exploratory).',
+          description: "",
+          section: "News",},{id: "news-new-collaboration-paper-about-electride-formation-under-negative-chemical-pressure-is-now-published-in-angewandte-chemie",
+          title: 'New collaboration paper about electride formation under negative chemical pressure is now published...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
