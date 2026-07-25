@@ -66,12 +66,22 @@
   ],
   "volunteer": [
     {
+      "organization": "DPG (German Physical Society) Spring Meeting",
+      "location": "Dresden, Germany",
+      "position": "Session Organizer",
+      "url": "",
+      "startDate": "2026-03-07",
+      "endDate": "2026-03-13",
+      "summary": "Materials Discovery: general principles, high-throughput searches and material informatics",
+      "highlights": []
+    },
+    {
       "organization": "ACS Spring 2026 Digital Meeting",
       "location": "Virtual",
       "position": "Session Organizer",
       "url": "",
-      "startDate": "2026-03-01",
-      "endDate": "2026-03-31",
+      "startDate": "2026-03-22",
+      "endDate": "2026-03-25",
       "summary": "Computational Materials Discovery",
       "highlights": []
     },
@@ -91,7 +101,7 @@
       "institution": "Department of Material Chemistry, Kyoto University",
       "location": "Kyoto, Japan",
       "url": "",
-      "area": "Thesis title: Structure--Property Correlations in Complex Oxides with Broken Inversion Symmetry",
+      "area": "Thesis title: Structure–Property Correlations in Complex Oxides with Broken Inversion Symmetry",
       "studyType": "Ph.D. in Engineering",
       "startDate": "2017-04-01",
       "endDate": "2020-3-23"
@@ -155,7 +165,7 @@
       "keywords": [
         "Materials discovery",
         "Crystal structure",
-        "Structure--property relationships"
+        "Structure–property relationships"
       ]
     },
     {
