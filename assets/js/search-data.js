@@ -106,6 +106,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-collaboration-paper-about-electride-formation-under-negative-chemical-pressure-is-now-published-in-angewandte-chemie",
           title: 'New collaboration paper about electride formation under negative chemical pressure is now published...',
           description: "",
+          section: "News",},{id: "news-i-will-be-serving-as-an-organizer-for-kyoto-university-jst-presto-international-symposium-on-future-materials-design-symposium-to-be-held-in-december-join-us",
+          title: 'I will be serving as an organizer for Kyoto University–JST PRESTO International Symposium...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
